@@ -3,8 +3,8 @@
 A full-stack Next.js application with role-based authentication, Neon DB, and TailwindCSS, built as a technical assignment. The app includes a complete To-Do Management System with protected routes and permissions.
 
 ### 🚀 Live Demo
-- 🔗 **Vercel Deployment:** [Add link here]
-- 🔗 **GitHub Repo:** [Add link here]
+- 🔗 **Vercel Deployment:** https://to-do-application-rashmitharaka1s-projects.vercel.app
+- 🔗 **GitHub Repo:** https://github.com/Rashmitharaka1/To-do-Application
 
 ---
 
