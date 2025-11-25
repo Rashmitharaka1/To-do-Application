@@ -16,7 +16,7 @@ export default async function LoginPage() {
       <div className="absolute top-1/4 left-1/4 w-64 h-64 bg-primary/10 rounded-full blur-3xl animate-float" />
       <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-accent/10 rounded-full blur-3xl animate-float" style={{animationDelay: '2s'}} />
       
-      <div className="relative z-10">
+      <div className="relative z-10 w-[400px]">
         <LoginForm />
       </div>
     </main>
