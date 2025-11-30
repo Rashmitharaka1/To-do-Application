@@ -48,7 +48,6 @@ The goal of this assignment is to test full-stack capability including:
 ### Backend
 - better-auth (Authentication & Authorization)
 - Neon PostgreSQL (Database)
-- Drizzle ORM (Optional)
 
 ### Deployment
 - Vercel
