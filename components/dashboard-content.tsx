@@ -32,7 +32,7 @@ export function DashboardContent({ user }: { user: User }) {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState("")
 
-  async function fetchTodos() {
+  async function fetchTodos() { //makes an api call to the backend route
     try {
       const res = await fetch("/api/todos")
       const data = await res.json()

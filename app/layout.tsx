@@ -1,7 +1,6 @@
 import type React from "react";
 import type { Metadata } from "next";
 import { Ubuntu } from "next/font/google";
-import { ThemeProvider } from "@/components/theme-provider";
 import "./globals.css";
 
 const ubuntu = Ubuntu({
